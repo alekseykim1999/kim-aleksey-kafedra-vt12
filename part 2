@@ -1,0 +1,9 @@
+import random
+n=int(input("Enter:"))
+a=[random.randrange(30) for i in range(n)]
+print(a)
+a_max=0
+i_max=0
+for i in range(len(a)):
+)
+if a[i] > a_m
