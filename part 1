@@ -1,0 +1,7 @@
+if a[i] > a_max:
+    a_max = a[i]
+i_max = i
+print(a[i_max])
+while a[i] < a[i_max]:
+    =0.5
+print(a)
